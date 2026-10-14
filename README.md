@@ -4,6 +4,13 @@
 
 ---
 
+## 🌐 Aplicación Web en Vivo
+
+Puedes acceder directamente a la aplicación alojada en GitHub Pages:
+👉 **[https://mugen-houy0u.github.io/crasher00/](https://mugen-houy0u.github.io/crasher00/)**
+
+---
+
 ## 🚀 Características Principales
 
 - **Gestión Integral de Rutinas:**
@@ -39,17 +46,6 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/crasher00.git
+   git clone https://github.com/mugen-houy0u/crasher00.git
    ```
 2. Abre el archivo `index.html` directamente en tu navegador web favorito (Chrome, Edge, Firefox, Safari).
-
----
-
-## 🌐 Despliegue en GitHub Pages
-
-Para publicar la aplicación gratis en GitHub Pages:
-1. Ve a la pestaña **Settings** de este repositorio en GitHub.
-2. En la sección **Pages** (en el menú lateral izquierdo):
-   - **Source**: Selecciona `Deploy from a branch`.
-   - **Branch**: Selecciona `main` / `/ (root)` y haz clic en **Save**.
-3. En unos segundos tu aplicación estará activa en `https://<tu-usuario>.github.io/crasher00/`.
